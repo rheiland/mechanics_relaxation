@@ -1,10 +1,10 @@
 <PhysiCell_settings version="devel-version">
 
     <domain>
-        <x_min>-60.0</x_min>
-        <x_max>60.0</x_max>
-        <y_min>-30.0</y_min>
-        <y_max>30.0</y_max>
+        <x_min>-120.0</x_min>
+        <x_max>120.0</x_max>
+        <y_min>-15.0</y_min>
+        <y_max>15.0</y_max>
         <z_min>-10.0</z_min>
         <z_max>10.0</z_max>
         <dx>20.0</dx>
@@ -14,7 +14,7 @@
     </domain>
 
     <overall>
-        <max_time units="min">2890.0</max_time>
+        <max_time units="min">1440.0</max_time>
         <time_units>min</time_units>
         <space_units>micron</space_units>
         <dt_diffusion units="min">0.01</dt_diffusion>
@@ -27,7 +27,7 @@
     </parallel>
 
     <save>
-        <folder>output_11cells</folder>
+        <folder>output_21cells</folder>
         <full_data>
             <interval units="min">1</interval>
             <enable>true</enable>
@@ -210,6 +210,7 @@
             <custom_data>
                 <cell_ID conserved="false" units="" description="">0.0</cell_ID>
                 <num_nbrs conserved="false" units="" description="">0.0</num_nbrs>
+                <vel_mag conserved="false" units="" description="">0.0</vel_mag>
             </custom_data>
             <initial_parameter_distributions enabled="false">
           </initial_parameter_distributions>
@@ -219,7 +220,7 @@
     <initial_conditions>
         <cell_positions type="csv" enabled="true">
             <folder>./config</folder>
-            <filename>equilib_11cells_symm.csv</filename>
+            <filename>equilib_21cells_symm.csv</filename>
         </cell_positions>
     </initial_conditions>
 
