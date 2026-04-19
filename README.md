@@ -1,4 +1,4 @@
-# PhysiCell: an Open Source Physics-Based Cell Simulator for 3-D Multicellular Systems
+# PhysiCell model for a growing monolayer (an OpenVT reference model)
 
 ```
 (base) M1P~/git/mechanics_relaxation$ make load PROJ=cells11_final
@@ -17,3 +17,8 @@ or:
 (base) M1P~/git/mechanics_relaxation$ python analysis/plot_11cells_csv.py pc_plot_11cells.csv
 ```
 <img src="images/physicell_vs_chaste.png" width=500/>
+
+## Funding
+
+National Science Foundation 2303695 and National Cancer Institute 1U24CA284156-01A1
+
