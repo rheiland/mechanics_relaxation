@@ -8,6 +8,7 @@ or:
 (base) M1P~/git/mechanics_relaxation$ pcstudio  
 
 (base) M1P~/git/mechanics_relaxation$ python analysis/plot_11cells_crop.py 88
+(generates pc_plot_11cells.csv)
 ```
 <img src="images/physicell_relax11.png" width=400/>
 
