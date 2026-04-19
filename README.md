@@ -10,4 +10,4 @@ or:
 (base) M1P~/git/mechanics_relaxation$ python analysis/plot_11cells_crop.py 88
 (base) M1P~/git/mechanics_relaxation$ python analysis/plot_11cells_csv.py pc_plot_11cells.csv
 ```
-<img src="imamges/physicell_vs_chaste.png">
+<img src="images/physicell_vs_chaste.png" width=500/>
