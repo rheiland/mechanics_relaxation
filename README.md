@@ -18,6 +18,12 @@ or:
 ```
 <img src="images/physicell_vs_chaste.png" width=500/>
 
+```
+(base) M1P~/git/mechanics_relaxation$ python analysis/plot_21cells_crop.py 1440
+(generates pc_plot_21cells_width.csv)
+```
+<img src="images/physicell_relax21.png" width=400/>
+
 ## Funding
 
 National Science Foundation 2303695 and National Cancer Institute 1U24CA284156-01A1
