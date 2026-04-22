@@ -220,7 +220,7 @@
     <initial_conditions>
         <cell_positions type="csv" enabled="true">
             <folder>./config</folder>
-            <filename>equilib_21cells_symm.csv</filename>
+            <filename>equilib_21cells_symm2.csv</filename>
         </cell_positions>
     </initial_conditions>
 
