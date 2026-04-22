@@ -24,6 +24,9 @@ or:
 ```
 <img src="images/physicell_relax21.png" width=400/>
 
+<img src="images/mechanics_cells21_relax_2026-04-22.gif" width=400/>
+
+
 ## Funding
 
 National Science Foundation 2303695 and National Cancer Institute 1U24CA284156-01A1
